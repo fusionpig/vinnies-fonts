@@ -1,5 +1,5 @@
 {
-  "name": "vinnies-fonts",
+  "name": "@fusionpig/vinnies-fonts",
   "version": "0.0.12",
   "description": "Pull Goolge Fonts into your local project quickly",
   "main": "index.js",
