@@ -1,25 +1,7 @@
 {
-  "name": "vinnies-fonts",
-  "version": "0.0.12",
-  "description": "Pull Goolge Fonts into your local project quickly",
-  "main": "index.js",
-  "scripts": {
-    "test": "build"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fusionpig/vinnies-fonts.git"
-  },
+  "name": "@fusionpig/vinnies-fonts"
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/fusionpig"
+    "registry": "https://npm.pkg.github.com/"
   },
-  "keywords": [
-    "fonts"
-  ],
-  "author": "Fusion Pig",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/fusionpig/vinnies-fonts/issues"
-  },
-  "homepage": "https://github.com/fusionpig/vinnies-fonts#readme"
+  "repository": "git://github.com/fusionpig/vinnies-fonts.git"
 }
