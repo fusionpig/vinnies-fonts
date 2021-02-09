@@ -13,6 +13,9 @@
   "keywords": [
     "fonts"
   ],
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/fusionpig"
+},
   "author": "Fusion Pig",
   "license": "ISC",
   "bugs": {
