@@ -10,12 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/fusionpig/vinnies-fonts.git"
   },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/fusionpig"
+  },
   "keywords": [
     "fonts"
   ],
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com/fusionpig"
-},
   "author": "Fusion Pig",
   "license": "ISC",
   "bugs": {
